@@ -53,4 +53,5 @@ El análisis permite observar diferencias importantes en popularidad y permanenc
 Este proyecto me ha permitido practicar la importación de datos, la creación de visualizaciones, el análisis de resultados y el diseño de dashboards interactivos con Tableau Public.
 
 Realizado por Elena Cano Rogero
+
 Proyecto de análisis y visualización de datos con Tableau Public.
